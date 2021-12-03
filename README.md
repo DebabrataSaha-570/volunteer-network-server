@@ -18,4 +18,4 @@ It is a website for registering volunteers in many events and manage them. I hav
 - Express JS
 - MongoDB
 
-You can see server side code in [Volunteer Network Client] (https://github.com/DebabrataSaha-570/volunteer-network-client)
+You can see server side code in [Volunteer Network Client](https://github.com/DebabrataSaha-570/volunteer-network-client)
